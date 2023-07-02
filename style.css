@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(232, 240, 204);
+}
+.heading{
+    text-align: center;
+    color: rgb(73, 32, 66);
+    font-size: 75px;
+    font-weight: 910;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(255, 230, 198, 0.329);
+}
+.recipe-name{
+    font-size: 25px;
+    background-color: rgba(220, 185, 253, 0.212);
+}
+ul li a{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(40, 41, 22);
+}
